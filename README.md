@@ -32,7 +32,7 @@ As imagens abaixo detalham o mapeamento de cada camada do teclado:
 ### Layer 2: Media & Functions (F1-F12)
 > *Camada dedicada a controles de mídia, volume e teclas de função.*
 <p align="center">
-  <img width="693" height="307" alt="image" src="https://github.com/user-attachments/assets/7faabea7-e86c-4c86-b7ea-043e793fb75c" />
+  <img width="693" height="307" alt="image" src="https://github.com/user-attachments/assets/db8b93f7-9049-42d3-b814-9b2151996fe5" />
 </p>
 
 ---
